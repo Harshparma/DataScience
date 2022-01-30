@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "random": "cpp",
+        "functional": "cpp",
+        "ostream": "cpp",
+        "iosfwd": "cpp",
+        "fstream": "cpp",
+        "charconv": "c",
+        "Stack_Using_Array.C": "cpp",
+        "limits.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
